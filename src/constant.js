@@ -1,0 +1,19 @@
+export const FIRST_NAME_ERROR = 'Please enter your first name'
+export const LAST_NAME_ERROR = 'Please enter your last name'
+export const EMAIL_ERROR = 'Please enter a valid email address'
+export const EMAIL_CONFIRMATION_ERROR = 'Your email and confirmation email must match'
+export const TERMS_AND_CONDITION_ERROR = 'Agreement to the Autodesk Terms of Use and Privacy Statement is required. Please check the box above to agree'
+export const EMAIL_REGEX = /^[A-Z0-9._%+-]+@[A-Z0-9.-]+\.[A-Z]{2,4}$/i
+export const UPDATE_NAME = 'UPDATE_NAME'
+export const VERIFY_USER = 'VERIFY_USER'
+export const TOGGLE_PASSWORD = 'TOGGLE_PASSWORD'
+export const FORM_VALID = 'FORM_VALID'
+export const RESET = 'RESET'
+export const NEXT = 'Next'
+export const VERIFYING = 'Verifying'
+export const SIGN_IN = 'Sign in'
+export const ACC_CREATION_SUCCESS_MSG = 'Your account has been created successfully'
+export const TOASTER_INTERVAL = 5000
+export const TOGGLE_ON_TOAST = 'TOGGLE_ON_TOAST'
+export const TOGGLE_OFF_TOAST ='TOGGLE_OFF_TOAST'
+
