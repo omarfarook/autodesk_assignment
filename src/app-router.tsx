@@ -9,7 +9,7 @@ import Register from './components/register'
 const AppRouter = (props: any) => {
     return (
         <>
-            <Router>{props.isToastOn}
+            <Router basename="/">
                 <Switch>
                     <Redirect from='/' exact to='/login' />
                     <Route path='/login' component={Login} />
