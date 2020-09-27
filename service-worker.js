@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/autodesk_assignment/precache-manifest.10d75a62a42073804a669db274e69032.js"
+  "/autodesk_assignment/precache-manifest.92b76dfd9d0dc814fbd6f0482f511b28.js"
 );
 
 self.addEventListener('message', (event) => {
