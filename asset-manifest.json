@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/autodesk_assignment/static/css/main.4618fe0a.chunk.css",
-    "main.js": "/autodesk_assignment/static/js/main.f8501340.chunk.js",
-    "main.js.map": "/autodesk_assignment/static/js/main.f8501340.chunk.js.map",
+    "main.css": "/autodesk_assignment/static/css/main.1b339cc3.chunk.css",
+    "main.js": "/autodesk_assignment/static/js/main.3b50fe3b.chunk.js",
+    "main.js.map": "/autodesk_assignment/static/js/main.3b50fe3b.chunk.js.map",
     "runtime-main.js": "/autodesk_assignment/static/js/runtime-main.8f93c1e8.js",
     "runtime-main.js.map": "/autodesk_assignment/static/js/runtime-main.8f93c1e8.js.map",
     "static/js/2.8ab67194.chunk.js": "/autodesk_assignment/static/js/2.8ab67194.chunk.js",
     "static/js/2.8ab67194.chunk.js.map": "/autodesk_assignment/static/js/2.8ab67194.chunk.js.map",
     "index.html": "/autodesk_assignment/index.html",
-    "precache-manifest.92b76dfd9d0dc814fbd6f0482f511b28.js": "/autodesk_assignment/precache-manifest.92b76dfd9d0dc814fbd6f0482f511b28.js",
+    "precache-manifest.cc859306fbaf1f961317f7b6f50e6ff8.js": "/autodesk_assignment/precache-manifest.cc859306fbaf1f961317f7b6f50e6ff8.js",
     "service-worker.js": "/autodesk_assignment/service-worker.js",
-    "static/css/main.4618fe0a.chunk.css.map": "/autodesk_assignment/static/css/main.4618fe0a.chunk.css.map",
+    "static/css/main.1b339cc3.chunk.css.map": "/autodesk_assignment/static/css/main.1b339cc3.chunk.css.map",
     "static/js/2.8ab67194.chunk.js.LICENSE.txt": "/autodesk_assignment/static/js/2.8ab67194.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8f93c1e8.js",
     "static/js/2.8ab67194.chunk.js",
-    "static/css/main.4618fe0a.chunk.css",
-    "static/js/main.f8501340.chunk.js"
+    "static/css/main.1b339cc3.chunk.css",
+    "static/js/main.3b50fe3b.chunk.js"
   ]
 }
